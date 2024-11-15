@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Battery</string>
+
+    <string name="battery_percentage">Battery Percentage</string>
+
+    <string name="title_text">Title</string>
+    <string name="description_text">Description</string>
+
+    <string name="battery_status">Battery Status</string>
+    <string name="status_value">Battery Status</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_value">Temperature Value</string>
+</resources>
